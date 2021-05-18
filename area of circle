@@ -1,0 +1,4 @@
+from math import pi
+print ('Enter radius of circle')
+r= float(input())
+print ('Area of circle is : ' +str(pi*r**2))
